@@ -4,7 +4,7 @@ Persian EDtunnel - GolafzaniPanel: a serverless cloudflare worker used for unbre
 GitHub Repository for https://github.com/zizifn/edgetunnel
 Github Repository for sample: https://github.com/3Kmfi6HP/EDtunnel
 
-ask question and cloudflare ips: https://t.me/moeinnetworkchat
+ask question and cloudflare ips: https://t.me/moeinchat
 our official channel: https://t.me/moeinnetwork
 
 See YouTube Video:
@@ -54,7 +54,7 @@ UUID = "uuid1,uuid2,uuid3"
 
 پیوند url اشتراک cpoy https://edtunnel.pages.dev/bestip/uuid مجموعه خود را برای هر کلاینت (clash/v2rayN/v2rayNG) که می خواهید استفاده کنید.
 
-انجام شده. اگر سوالی دارید لطفا به @moeinnetworkchat در تلگرام بپیوندید
+انجام شده. اگر سوالی دارید لطفا به @moeinchat در تلگرام بپیوندید
 
 پشتیبانی از چند پورت (اختیاری)
 برای لیست پورت های پشتیبانی شده از Cloudflare، لطفاً به اسناد رسمی مراجعه کنید.
@@ -123,7 +123,7 @@ visit https://edtunnel.pages.dev/bestip/uuid your set to get subscribe info.
 
 cpoy subscribe url link https://edtunnel.pages.dev/bestip/uuid your set to any clients(clash/v2rayN/v2rayNG) you want to use.
 
-done. if have any questions please join @moeinnetworkchat in telegram
+done. if have any questions please join @moeinchat in telegram
 
 multiple port support (Optional)
 For a list of Cloudflare supported ports, please refer to the official documentation.
