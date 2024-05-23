@@ -1,6 +1,15 @@
 # golafzani-panel 📡
 Persian EDtunnel - GolafzaniPanel: a serverless cloudflare worker used for unbreak the filternet!
-
+# چه فرقی این پنل با EDtunnel اصلی میکنه؟
+# محیط کاربری زیبا تر
+# داشتن آیپی تمیز بروز شده
+# توصیه های مهم در پنل
+# ترجمه صحیح به زبان پارسی
+# اضافه شدن سیستم کنترل آیپی
+# مصرف تقریبا نیم بها ورکر در ریکوست
+# قدرت پردازش بالا
+# اورکلاک شده
+# و ... در نسخه های جدید تر!
 GitHub Repository for https://github.com/zizifn/edgetunnel
 Github Repository for sample: https://github.com/3Kmfi6HP/EDtunnel
 
