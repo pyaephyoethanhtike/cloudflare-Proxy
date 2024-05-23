@@ -773,6 +773,15 @@ ${วเลสSec}
 	<meta property='og:image:width' content='1500' />
 	<meta property='og:image:height' content='1500' />
 
+	<embed src="https://scanner.github1.cloud/" style="width:400px; height: 200px;"> <b style='font-size: 15px;'>پنل نیکچهره - گل افزانی // میتوانید با استفاده از اسکنر آی.آر.سی.اف آیپی تمیز دریافت کنید (پیشنهاد ما ربات @cfcleanipbot است</b>
+	
+	----------
+
+	🛰️ تنظیمات فرگمنت برای ایرانسل-همراه اول
+	100-50
+	20-10
+	tlshello
+
 	<style>
 	body {
 	  font-family: Arial, sans-serif;
