@@ -723,10 +723,39 @@ function getวเลสConfig(userIDs, hostName) {
 ${วเลสMain}
 <button onclick='copyToClipboard("${วเลสMain}")'><i class="fa fa-clipboard"></i> کپی ویلس اصلی اولی</button>
 ---------------------------------------------------------------
+
 ویتوری بدون ساب-دامنه اصلی و آیپی تمیز پیشفرض / تمیزسازی آیپی با بات تلگرام @cfcleanipbot
 ---------------------------------------------------------------
 ${วเลสSec}
 <button onclick='copyToClipboard("${วเลสSec}")'><i class="fa fa-clipboard"></i> کپی ویلس دومی</button>
+
+وضیعت ویلس:
+
+<embed src="https://radar.parsico.org/vless" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت ویمس:
+<embed src="https://radar.parsico.org/vmess" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت اختلال اینترنت:
+<embed src="https://radar.parsico.org/chart" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت پینگ بر روی موبایل:
+<embed src="https://radar.parsico.org/mobile-ping" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت اختلال بر روی موبایل:
+<embed src="https://radar.parsico.org/mobile-disturbance" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت پینگ اینترنت مسی - مودم ADSL:
+<embed src="https://radar.parsico.org/adsl-ping" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت اختلال اینترنت مسی - مودم ADSL:
+<embed src="https://radar.parsico.org/vmess" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت شدوساکس:
+<embed src="https://radar.parsico.org/ss" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
+
+وضیعت تروجان:
+<embed src="https://radar.parsico.org/trojan" style="width:1200px; height: 500px;"> <b style='font-size: 20px;'>
 ---------------------------------------------------------------`;
 	}).join('\n');
 	const sublink = `https://${hostName}/sub/${userIDArray[0]}?format=clash`
@@ -735,6 +764,7 @@ ${วเลสSec}
 	// Prepare header string
 	const header = `
 <p align='center'><img src='https://s8.uupload.ir/files/clxu3_txya.jpg' alt='توضیحات تصویر' style='margin-bottom: -50px;'>
+<embed src="https://scanner.github1.cloud/" style="width:400px; height: 200px;"> <b style='font-size: 15px;'>پنل نیکچهره - گل افزانی // میتوانید با استفاده از اسکنر آی.آر.سی.اف آیپی تمیز دریافت کنید (پیشنهاد ما ربات @cfcleanipbot است</b>
 <b style='font-size: 15px;'>پنل نیکچهره - گل افزانی</b>
 <b style='font-size: 15px;'>اینترنت برای همه یا هیچکس</b>
 <b style='font-size: 15px;'>ساپورتت-تانل: ایرانسل-همراه.اول-رایتل-تانوما-شاتل-پیشگامان-مخابرات</b>
@@ -773,14 +803,19 @@ ${วเลสSec}
 	<meta property='og:image:width' content='1500' />
 	<meta property='og:image:height' content='1500' />
 
-	<embed src="https://scanner.github1.cloud/" style="width:400px; height: 200px;"> <b style='font-size: 15px;'>پنل نیکچهره - گل افزانی // میتوانید با استفاده از اسکنر آی.آر.سی.اف آیپی تمیز دریافت کنید (پیشنهاد ما ربات @cfcleanipbot است</b>
+	<!-- Date/Time by CLS ---><script type="text/javascript" src="https://1abzar.ir/abzar/tools/time-date/clock-ir.php?color=1F3314&font=10&bg=BDD4FC&kc=B380E0&kadr=1"></script><div style="display:none"><h2><a href="https://www.1abzar.com/abzar/time-date.php">&#1587;&#1575;&#1593;&#1578; &#1608; &#1578;&#1575;&#1585;&#1610;&#1582;</a></h2></div><!-- Date/Time by CLX ---> <!-- Date/Time by www.1abzar.com ---><script type="text/javascript" src="https://1abzar.ir/abzar/tools/time-date/date-fa.php?color=1F3314&font=10&bg=BDD4FC&kc=B380E0&kadr=1"></script><div style="display:none"><h2><a href="https://www.1abzar.com/abzar/time-date.php">&#1587;&#1575;&#1593;&#1578; &#1608; &#1578;&#1575;&#1585;&#1610;&#1582;</a></h2></div><!-- Date/Time by www.1abzar.com --->
 	
-	----------
+    <!-- Loading by www.1abzar.com ---><script src="https://www.1abzar.ir/abzar/tools/loading/loading.php?txt=در حال بارگذاری پنل گل-افزانی ...&pic=2/s%20(9)"></script><div style="display:none"><h3><a href="https://www.1abzar.com/abzar/loading.php">&#1575;&#1576;&#1586;&#1575;&#1585; &#1585;&#1575;&#1740;&#1711;&#1575;&#1606; &#1608;&#1576;&#1604;&#1575;&#1711;</a></h3></div><!-- Loading by www.1abzar.com --->
 
+	
+	!به پنل گل-افزانی خوش آمدید
+	
 	🛰️ تنظیمات فرگمنت برای ایرانسل-همراه اول
 	100-50
 	20-10
 	tlshello
+
+	<!-- DES : 3x2.ir --><script src="http://3x2.ir/js/ip3.php" language="JavaScript"></script><h2><a style="display:none" href="HTTP://3x2.ir">IP TOOLS</a></h2><!-- DES : 3x2.ir -->
 
 	<style>
 	body {
