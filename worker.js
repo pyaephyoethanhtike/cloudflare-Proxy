@@ -12,7 +12,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = 'f1a234f6-c946-4024-ba79-882f58c22727';
 
 //This is now a default ProxyIP system - you can change it but be careful!
-const พร็อกซีไอพีs = ['www.digitalocean.com', 'singapore.com', 'skk.moe', 'gur.gov.ua', 'malaysia.com'];
+const พร็อกซีไอพีs = ['proxyip.sg.fxxk.dedyn.io', 'proxyip.hk.fxxk.dedyn.io'];
 //ProxyIPs INF: Better to set a IpTamiz for 9th line!
 //How? read line 22 to 24
 
